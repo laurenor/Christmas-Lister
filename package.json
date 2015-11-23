@@ -1,0 +1,16 @@
+{
+  "name": "christmas-lister",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": " <laurenortencio@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.1.0"
+  }
+}
